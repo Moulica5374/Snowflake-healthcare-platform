@@ -1,0 +1,16 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+synthea/output/
+airflow/logs/
+airflow.db
+.aws/
+.vscode/
+.idea/
+.DS_Store
